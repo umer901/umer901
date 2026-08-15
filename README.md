@@ -1,4 +1,4 @@
-## Hi, I'm Umer Malik, a software engineer with a Master in Computer Science from UCLouvain, Belgium.
+## Hi, I'm Umer Malik, a Software Engineer with a Master's in Computer Science from UCLouvain, Belgium.
 
 <!-- Social Links -->
 

@@ -11,8 +11,7 @@
 
 **About me:**
 
- <img width="45%" align="right" alt="Coding" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /> 
-
+ <img width="45%" align="right" alt="Coding" src="https://github.com/user-attachments/assets/000870c5-1145-44a7-a51f-1b21bbd73377" />
 
 
 
@@ -30,7 +29,6 @@
 <p>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/isocpp/isocpp-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/open-std_c/open-std_c-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>

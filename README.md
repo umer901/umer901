@@ -74,9 +74,9 @@
 
 ## Featured Projects
 
-### PANTHER GUI
+### [PANTHER GUI](https://github.com/umer901/PANTHER)
 
-A modern graphical interface for **PANTHER**, designed to make network protocol testing and experiment management more accessible. Developed as part of my master's thesis and my largest contribution to a project so far.
+A modern graphical interface for **PANTHER**, designed to make network protocol testing and experiment management more accessible. Developed as part of my master's thesis and my largest contribution to a project so far. (Also wrote a 50 page thesis document about the research, testing and validation that went into this project).
 
 **Technologies:** Python · NiceGUI · YAML · Docker · Plugin Architecture
 
@@ -88,7 +88,7 @@ A modern graphical interface for **PANTHER**, designed to make network protocol 
 
 <img width="1575" height="581" alt="horizontal architecture" src="https://github.com/user-attachments/assets/e39cc119-d4cb-4570-aa19-38e79a7af3b4" />
 
-### Time Event Logging & Monitoring System
+### [Time Event Logging & Monitoring System](https://github.com/umer901/MedicalAppointmentManager)
 
 A cloud-native system designed to **capture, centralize, and monitor time-based application events** across distributed services. The project focused on building reliable infrastructure for event logging, service health monitoring, and deployment across multiple virtual machines.
 
@@ -100,16 +100,18 @@ A cloud-native system designed to **capture, centralize, and monitor time-based 
 * Automated deployment and CI/CD workflows
 * Containerized services orchestrated using Docker Swarm
 
-### Reddit Developer Bot
+### [Reddit Developer Bot — Tech Trends](https://github.com/umer901/RedditDevBot)
 
-An automated Reddit bot designed to interact with and process Reddit content programmatically.
+An automated Reddit bot that detects developer and market interest in programming technologies by aggregating data from GitHub, Stack Overflow, job postings, and Google Trends. The bot responds to Reddit queries with a summarized analysis and a visual trend graph.
 
-**Technologies:** Python · Reddit API · Automation
+**Technologies:** Python · Reddit API · GitHub API · Stack Overflow · Google Trends · Data Visualization
 
-* Automated interaction with Reddit content
-* API-driven processing of posts and comments
-* Event-driven automation and background processing
-* Designed with modular components for extending bot functionality
+* Aggregates technology interest data from GitHub repositories, Stack Overflow tags, job postings, and Google Trends
+* Responds to Reddit keyword triggers such as !devtrends rust
+* Generates 12-month technology trend graphs and embeds them directly in Reddit responses
+* Uploads generated visualizations through an image hosting API
+* Modular Python architecture with separate components for data collection, trend analysis, Reddit interaction, and utilities
+* Designed to make it easier to identify emerging trends and compare the popularity of programming technologies
 
 ---
 
@@ -126,6 +128,9 @@ An Android indoor navigation application developed as a final-year project using
 * Real-time Firebase backend
 * Interactive navigation interface
 * Developed in collaboration with an industry partner
+
+  <img width="800" height="533" alt="image" src="https://github.com/user-attachments/assets/6aa832a9-809d-4a86-b4de-094e2ae6ac48" />
+
 
 ### Shopping Cart Microservices
 
@@ -153,32 +158,19 @@ A **Generative AI financial assistant** built around retrieval-augmented generat
 
 ## What I Like Building
 
-```text
-Software Engineering     ████████████████████
-Full-Stack Development   ███████████████████░
-Artificial Intelligence  ██████████████████░░
-Backend & APIs           ██████████████████░░
-Developer Tools          █████████████████░░░
-Computer Vision          ███████████████░░░░░
-Mobile Development       ██████████████░░░░░░
-```
+Other than creating side projects that I randomly get an idea for, I like contributing to frameworks and applications that have helped me throughout my professional journey, university work or just general life.
 
 ---
 
-## Let's Connect
+## Some Interests
 
-I'm always interested in discussing:
+I like contributing to things that relate to my interests and hobbies. For example, my passion for geography led me to use and try to contribute to different open source mapping systems. Here are some of my likes:
 
-* Software engineering and architecture
-* Full-stack development
-* AI / LLM applications
-* Distributed systems and cloud technologies
-* Open-source projects
-* Interesting technical problems
-* Career opportunities
-
-<p align="center">
-  <b>Thanks for visiting my profile! 🚀</b>
-</p>
+* Languages (French, Urdu, Punjabi, English and more)
+* Linguistics
+* Basketball
+* Philosophy
+* Geography and Maps
+* Cooking (more of a recent endeavour)
 
 ---

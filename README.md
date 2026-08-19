@@ -66,7 +66,12 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
 </p>
 
+</table>
+<h1>
+</h1>
+<br>
 
+<img width="33%" src="https://github-stats-mu-nine.vercel.app/api/top-langs/?username=umer901&theme=react&hide_border=true&layout=pie&langs_count=8&bg_color=0D1117" alt="Top Languages"/>
 
 ---
 
@@ -170,5 +175,6 @@ I like contributing to things that relate to my interests and hobbies. For examp
 * Philosophy
 * Geography and Maps
 * Cooking (more of a recent endeavour)
+* Travelling
 
 ---
